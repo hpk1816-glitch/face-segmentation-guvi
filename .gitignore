@@ -1,0 +1,4 @@
+data/ 
+*.npy 
+*.keras 
+__pycache__/
